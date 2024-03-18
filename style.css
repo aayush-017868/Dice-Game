@@ -1,0 +1,106 @@
+/* Form Css */
+.container1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15rem;
+  height: 100vh;
+}
+
+.playerForm{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: 1px solid black;
+  padding: 2rem;
+  border-radius: 1rem;
+  background-color: rgb(167, 199, 227);
+  align-items: center;
+}
+
+.btn1{
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  padding: .5rem;
+  width: 7rem;
+  color: white;
+  border-radius: 1rem;
+  background-color: rgb(74, 169, 247);
+  font-weight: 700;
+  box-shadow: 4px 4px 5px black;
+}
+.btn1:hover{
+  background-color: black;
+  color: white;
+  box-shadow: 3px 3px #232931;
+  cursor: pointer;
+  padding: .5 2rem;
+}
+/* Form Css */
+
+
+/*Game Css*/
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h2 {
+  margin: 30px;
+  font-family: "Lobster", cursive;
+  text-shadow: 10px 5px #232931;
+  font-size: 8rem;
+  color: #4ecca3;
+}
+
+.pl-container {
+  display: flex;
+  gap: 1.5rem;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 10%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+.btn {
+  font-size: 2rem;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  width: 7rem;
+  border-radius: 1rem;
+  background-color: rgb(255, 255, 255);
+  font-weight: 700;
+  box-shadow: 4px 4px 5px black;
+}
+.btn:hover {
+  background-color: black;
+  color: white;
+  box-shadow: 3px 3px #232931;
+  cursor: pointer;
+}
+
