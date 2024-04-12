@@ -1,6 +1,7 @@
 # Dice Game 🎲
 
 Welcome to the Dice Game! This is a simple and fun game built with HTML, CSS, and JavaScript.
+1. Visit the [Dice Game](https://aayush-017868.github.io/Dice-Game/) website.
 
 ## Overview 📖
 
